@@ -1,0 +1,56 @@
+body{
+    background-color: #183A4A;
+}
+
+/*********** Contenitore ***********/
+.cont{
+    width: 70%;
+    margin: auto;
+}
+/*********** /Contenitore ***********/
+
+
+/*********** Titolo ***********/
+h1{
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 90px;
+}
+/*********** /Titolo ***********/
+
+/*********** Lista ***********/
+ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+li{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  margin: 10px;
+}
+/*********** /Lista ***********/
+
+
+/*********** Colori dei vari quadrati ***********/
+.celeste{
+    background-color: #3D88AE;
+}
+
+.verde{
+    background-color: #61D2A4;
+}
+
+.giallo{
+    background-color: #F9D277;
+}
+
+.rosso{
+    background-color: #DE5471;
+}
+/*********** /Colori dei vari quadrati ***********/
